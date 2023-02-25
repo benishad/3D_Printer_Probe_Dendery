@@ -1,6 +1,9 @@
 # 3D_Printer_Probe_DEnder-probe
  레벨링 프로브 제작 / Remake_KlackEnder
  
+ ※ Klicky Probe PCB를 쉽게 구하는 방법을 찾게되어 수정함.
+ ※ https://smartstore.naver.com/2bitmall/products/8070124333
+ 
 * __제작 프로그램__
 
   * AUTODESK Fusion360
